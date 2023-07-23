@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wifiTest</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="button">button</string>
+
+    <string name="hello">Hello Android</string>
+</resources>
